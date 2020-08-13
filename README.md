@@ -3,7 +3,7 @@
 ## Intention
 
 This program intends to remove strings containing 'oggy' from a list of strings.
-Although I like Oggy, I was forced to remove since it is part of my assignment.
+Although I like Oggy, removed it since it is part of my assignment.
 
 ## Method
 
