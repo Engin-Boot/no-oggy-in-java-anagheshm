@@ -9,3 +9,7 @@ Although I like Oggy, but my trainer doesn't like so removing it
 ## Method
 
 Removed Oggy by iterator method
+
+## Disabled mardownlint 
+
+yay! I can write whatever I want
