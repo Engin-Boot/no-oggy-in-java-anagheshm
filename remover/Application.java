@@ -3,7 +3,7 @@ package remover;
 import java.util.*;
 import java.util.stream.Collectors;
 
-public class Main {
+public class Application{
     public static void removeOggy(ArrayList<String> names) {
       	Iterator itr = names.iterator(); 
     	 while (itr.hasNext()) 
