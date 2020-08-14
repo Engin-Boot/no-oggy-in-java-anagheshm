@@ -10,6 +10,6 @@ Although I like Oggy, but my trainer doesn't like so removing it
 
 Removed Oggy by iterator method
 
-## Disabled mardownlint 
+## Disabled markdown lint 
 
 yay! I can write whatever I want
