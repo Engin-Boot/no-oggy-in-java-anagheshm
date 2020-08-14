@@ -8,8 +8,8 @@ public class Application{
       	Iterator itr = names.iterator(); 
     	 while (itr.hasNext()) 
          { 
-            String s = (String) itr.next();
-             if (s.contains("oggy")) 
+            String eachElement = (String) itr.next();
+             if (eachElement.contains("oggy")) 
                  itr.remove(); 
          } 
     }
