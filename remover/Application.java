@@ -18,7 +18,7 @@ public class Application{
         return oggys.size() == 0;
     }
     public static void main(String[] args) {
-        ArrayList<String> names = new ArrayList<String>(Arrays.asList("nobita", "bheem", "oggy", "oggy cockroach", "ninja"));
+        ArrayList<String> names = new ArrayList<String>(Arrays.asList("nobita", "bheem", "oggy", "oggy cockroach", "ninja", "oggy and the cockroaches"));
         removeOggy(names);
         if(oggyIsRemoved(names)) {
             System.out.println("Passed!");
